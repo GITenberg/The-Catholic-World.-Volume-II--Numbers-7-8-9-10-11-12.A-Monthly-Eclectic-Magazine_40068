@@ -10,6 +10,8 @@ creator:
     gutenberg_agent_id: '116'
     url: http://www.gutenberg.org/2009/agents/116
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/40068#The-Catholic-World.-Volume-II--Numbers-7-8-9-10-11-12.A-Monthly-Eclectic-Magazine
 gutenberg_bookshelf: The Catholic World
 gutenberg_issued: '2012-06-24'
 gutenberg_type: Text
